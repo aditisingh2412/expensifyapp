@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/expensifyapp/static/css/main.068c9584.chunk.css",
+    "main.js": "/expensifyapp/static/js/main.7ebad7b1.chunk.js",
+    "main.js.map": "/expensifyapp/static/js/main.7ebad7b1.chunk.js.map",
+    "runtime-main.js": "/expensifyapp/static/js/runtime-main.66d282a1.js",
+    "runtime-main.js.map": "/expensifyapp/static/js/runtime-main.66d282a1.js.map",
+    "static/js/2.d81dfb38.chunk.js": "/expensifyapp/static/js/2.d81dfb38.chunk.js",
+    "static/js/2.d81dfb38.chunk.js.map": "/expensifyapp/static/js/2.d81dfb38.chunk.js.map",
+    "index.html": "/expensifyapp/index.html",
+    "static/css/main.068c9584.chunk.css.map": "/expensifyapp/static/css/main.068c9584.chunk.css.map",
+    "static/js/2.d81dfb38.chunk.js.LICENSE.txt": "/expensifyapp/static/js/2.d81dfb38.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/expensifyapp/static/media/money.1b4345b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d282a1.js",
+    "static/js/2.d81dfb38.chunk.js",
+    "static/css/main.068c9584.chunk.css",
+    "static/js/main.7ebad7b1.chunk.js"
+  ]
+}
